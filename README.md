@@ -10,6 +10,8 @@ Email: contato.denismedeiros@hotmail.com
 
 Linkedin: https://www.linkedin.com/in/denis-medeiros/
 
+Rocketseat: https://app.rocketseat.com.br/me/denismedeiros
+
 <!--
 **DenisMedeirosSDK/DenisMedeirosSDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
