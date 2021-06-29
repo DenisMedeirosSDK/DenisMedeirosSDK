@@ -1,8 +1,7 @@
 ### Bem vindo ao meu github 👋
 
 ### Em estudos 🧠
-Nesse momento de 2020 eu estou estudando programação com a stack nodejs, react e react native,
-e cursando ciência da computação.
+Estudando programação com a stack nodejs, react e react native, e cursando ciência da computação.
 
 ### Contato 📫
 
