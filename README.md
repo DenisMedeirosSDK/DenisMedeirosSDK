@@ -1,9 +1,11 @@
 ### Bem vindo ao meu github 👋
 
 ### Em estudos 🧠
-Estudando programação com a stack nodejs, react e react native, e formado em ciência da computação.
+Sou Denis Medeiros, desenvolvedor web Full-Stack com foco em Node.js, formado em Ciência da Computação, e um entusiasta em modelagem 3D.
 
 ### Contato 📫
+
+Portfólio: https://denismedeirossdk.github.io/
 
 Email: contato.denismedeiros@hotmail.com
 
